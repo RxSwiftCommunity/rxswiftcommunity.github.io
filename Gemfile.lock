@@ -1,3 +1,11 @@
+GIT
+  remote: https://github.com/josephholsten/middleman-gh-pages.git
+  revision: ba53204cc06398b045c215271cd5abe5d3e1aff1
+  branch: support-master-branch
+  specs:
+    middleman-gh-pages (0.0.3)
+      rake (> 0.9.3)
+
 GEM
   remote: https://rubygems.org/
   specs:
@@ -81,6 +89,7 @@ GEM
     rack (1.6.4)
     rack-test (0.6.3)
       rack (>= 1.0)
+    rake (10.4.2)
     rb-fsevent (0.9.6)
     rb-inotify (0.9.5)
       ffi (>= 0.5.0)
@@ -112,6 +121,7 @@ PLATFORMS
 
 DEPENDENCIES
   middleman
+  middleman-gh-pages!
 
 BUNDLED WITH
    1.10.6
