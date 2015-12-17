@@ -1,5 +1,7 @@
 # RxProjects
 
+[![Build Status](https://travis-ci.org/RxSwiftCommunity/rxswiftcommunity.github.io.svg?branch=source)](https://travis-ci.org/RxSwiftCommunity/rxswiftcommunity.github.io)
+
 Website for projects that support RxSwift.
 
 ## Contributing
