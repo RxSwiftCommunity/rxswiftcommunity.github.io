@@ -1,2 +1,9 @@
 language: ruby
 cache: bundler
+
+global:
+  secure: qNkEIbCgEsBj/AO80ikqE2qzGzcSonUhDIKk1LUdrOSt/q6+1n8UMp71aI/hEx72RK/CiF7s63+NY1q8DaZxFFh6O2jIpopSvKiWiRMBxzUiO2eeswnvdTPECuLawMWns6O/VUxlhbDSVdUXa2DZbS7vz/WZ6cLdAdh3ZiNCpyehu8dxDS8wK6Rn+Qzo0LvauYT6SsMIRb+qff9tWl+0ERJ02OvZzvb7UAJ2/olQgx/kxZRgLnaZAlzwSP2qyInLvYH8GWhZ8gKdwsBf3yM5T7VlBq40/20Tc2GDJ30C7+xu5iJDgPfh+QVNjiWPbOBRkU03YiQBzeF+4yXspdibarpmQdMKsbpJivYyD08/u/kCKnU27cJ3/sGWxGTFERENS+Ku0sPfpLxcAqXD19dUSHscvHvFTVGa7u+McSzixjAXzhQKP3EMOtPvC0iLXgrZYjmQ7Dilf0sMfuP1LfvammfD9BaVE4nXDncPnnmFs62qTlM8mgByO564V7PJkP/FDjYsT8iR1LwUoaUn+6o64fiCYRRO8X/fsPAaZMawtosSxz7L74ZdkZ2HT3cYdaAQRPmhwtqSGiwF8A1dypGudnAtBYjTi5UUtB5TsKAlKOI82gulzPZk6KETomAt/DXV+k0T6cWINNIqW6tUb5npcMkC5NvOwAOsKoP0F+BVlX0=
+
+before_install:
+- echo "machine github.com login $GITHUB_API_KEY" > ~/.netrc
+- chmod 600 ~/.netrc
