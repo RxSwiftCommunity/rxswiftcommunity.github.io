@@ -26,8 +26,7 @@ end
 
 desc "Builds, then publishes"
 task :deploy do
-  sh "bundle exec middleman build"
   sh "bundle exec rake publish BRANCH_NAME=master ALLOW_DIRTY=true"
 end
 
-task :default => [:build, :lint_projects, :travis]
+task :default => [:lint_projects, :travis]
