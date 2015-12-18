@@ -1,9 +1,9 @@
-[community.rxswift.org](https://community.rxswift.org)
+[community.rxswift.org](http://community.rxswift.org)
 =========================================================
 
 [![Build Status](https://travis-ci.org/RxSwiftCommunity/rxswiftcommunity.github.io.svg?branch=source)](https://travis-ci.org/RxSwiftCommunity/rxswiftcommunity.github.io)
 
-<img src=source/images/logo.svg height=250 />
+<img src="https://raw.githubusercontent.com/RxSwiftCommunity/rxswiftcommunity.github.io/source/source/images/logo.svg" height="250" />
 
 <br/>
 Website for projects that support RxSwift.
