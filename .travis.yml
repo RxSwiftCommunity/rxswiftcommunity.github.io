@@ -6,5 +6,7 @@ env:
     secure: q1JdxkZXo9CLT7HDW07fdzqp22RuZ1/PNo2vSVvIkdyl3TRXbsnnJNnidkznjY2mkztaJ6t+gpXtSNfIMRUH5a6gMIJJ0IkwBvyLWppuWe1bmh6G8JNRq9hQeboJiLkyBOi0macwGGIm+0djSKWAeG2pruHf2NvBHqrLAe1UccRLllZ/JjOkzMKTlijjYLs+Nn3QZWJOLz24hBrt/Bw/5oupaayWIrs0ou/i5S1VjQWwmDndALXmpmyp9m6J6KfsvhpFV+RLCG1VpA9OcaIfYAjDJqbMsKI+9jhsV+katXGh/UpB0AMR0Bc0yxdMr/2imAYUvsCUceGHptWLkl2covkGYtVYtcstCxHpx9Nd8zuO4UqZMsiwxxwfwuw37X6HrHMQwQ3wKyaIHpm6cN/nBG4H8XlrSTnnwLkhUQUIRTkMRoZogrXNQtsVQ8NMNIsx6KA2lG/1ps7yyL6PqIiC9M62AJ554uppURbky3PZVB5VsHUT56MBkJWJJpdhwGwQHjBZsEU9AgImmqi2uSA1n4PBHIz4/bmlHiVhrCK+aGPu6VcdXjCtYwK5w+WqzmCLrKSftCxJ5gbb2ElOvFsVsJslQz7f5bcGK16BafYnMNnC8BEMMaKZSg7tsVSBPYzZ06BY7LXsBced/xOHl5BGu5Fyy8jvWbkIR/K7N94Z8jA=
 
 before_install:
+- git config user.name "Ash Furrow (Via Travis)"
+- git config user.email ash@ashfurrow.com
 - echo "machine github.com login $GITHUB_API_KEY" > ~/.netrc
 - chmod 600 ~/.netrc
