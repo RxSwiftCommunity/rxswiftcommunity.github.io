@@ -12,6 +12,12 @@ Website for projects that support RxSwift.
 4. Use `middleman` and browse to [localhost:4567](localhost:4567) to preview changes.
 5. Open a PR 🎉
 
+TODO: Add instructions for where to put new projects, how to format them, etc.
+
 ## Deploying
 
 If you have push rights, you can deploy by running `rake build` then `rake publish`. This will be automated eventually.
+
+## Thanks
+
+Thanks to [this project](https://github.com/IronSummitMedia/startbootstrap-modern-business) for the bootstrap theme.
