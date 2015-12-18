@@ -6,6 +6,7 @@
 <center><img src="http://community.rxswift.org/images/logo.svg" height="250" /></center>
 
 <br/>
+
 Website for projects that support RxSwift.
 
 ## Contributing
@@ -16,11 +17,11 @@ Website for projects that support RxSwift.
 4. Use `middleman` and browse to [localhost:4567](localhost:4567) to preview changes.
 5. Open a PR 🎉  targeting the source branch
 
-TODO: Add instructions for where to put new projects, how to format them, etc.
+To add a new project to the site, add it to the [`items.yml` file](https://github.com/RxSwiftCommunity/rxswiftcommunity.github.io/blob/source/data/items.yml). Let us know if you have any questions!
 
 ## Deploying
 
-If you have push rights, you can deploy by running `rake build` then `rake publish`. This will be automated eventually.
+Deploying is handled automatically when a commit is made to the `source` branch.
 
 ## Thanks
 
