@@ -20,32 +20,25 @@
 
   <body class="<%= page_classes %>">
 
-    <!-- Navigation -->
-    <nav class="navbar navbar-inverse navbar-fixed-top" role="navigation">
-      <div class="container">
-        <div class="navbar-header">
-          <a class="navbar-brand" href="/">RxSwiftCommunity</a>
+
+    <header>
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-12">
+          
+          <a href="/"><%= image_tag('logo.svg', :alt => 'RxSwiftCommunity Logo', :class => 'logo') %></a>
+
+          <h1><%= title %></h1>
+
+        </div>
         </div>
       </div>
-      <!-- /.container -->
-    </nav>
-
-    <!-- Header Carousel -->
-    <header class="carousel">
-
-      <div class="fill" style="background-image:url('http://placehold.it/1900x1080');"></div>
-      <div class="carousel-caption">
-        <h1><%= title %></h1>
-      </div>
-
     </header>
 
     <!-- Page Content -->
     <div class="container">
 
       <%= yield %>
-
-      <hr>
 
       <!-- Footer -->
       <footer>

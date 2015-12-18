@@ -8,86 +8,51 @@
 
 html,
 body {
-    height: 100%;
+  height: 100%;
 }
 
-body {
-    padding-top: 50px; /* Required padding for .navbar-fixed-top. Remove if using .navbar-static-top. Change if height of navigation changes. */
+header {
+  background-color: #292F36;
 }
 
-.img-portfolio {
-    margin-bottom: 30px;
+img.logo {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 256px;
+  margin-top: 50px;
 }
 
-.img-hover:hover {
-    opacity: 0.8;
+h1 {
+  display: block;
+  color: white;
+  text-shadow: 0 1px 2px rgba(0, 0, 0, .6);
+  padding-bottom: 30px;
+  text-align: center;
 }
 
-/* Home Page Carousel */
-
-header.carousel {
-    height: 50%;
+h2 {
+  margin-top: 50px;
 }
 
-header.carousel .item,
-header.carousel .item.active,
-header.carousel .carousel-inner {
-    height: 100%;
+a {
+  color: #E50193;
 }
 
-header.carousel .fill {
-    width: 100%;
-    height: 100%;
-    background-position: center;
-    background-size: cover;
-}
-
-/* 404 Page Styles */
-
-.error-404 {
-    font-size: 100px;
-}
-
-/* Pricing Page Styles */
-
-.price {
-    display: block;
-    font-size: 50px;
-    line-height: 50px;
-}
-
-.price sup {
-    top: -20px;
-    left: 2px;
-    font-size: 20px;
-}
-
-.period {
-    display: block;
-    font-style: italic;
+a:hover {
+  color: #93018F;
 }
 
 /* Footer Styles */
 
 footer {
-    margin: 50px 0;
+  margin: 50px 0;
 }
 
 /* Responsive Styles */
 
-@media(max-width:991px) {
-    .customer-img,
-    .img-related {
-        margin-bottom: 30px;
-    }
-}
-
-@media(max-width:767px) {
-    .img-portfolio {
-        margin-bottom: 15px;
-    }
-
-    header.carousel .carousel {
-        height: 70%;
-    }
+@media(max-width: 767px) {
+  img.logo {
+    width: 128px;
+  }
 }

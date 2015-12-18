@@ -2,33 +2,33 @@
 title: RxSwift Community Projects
 ---
 
-<div class="row">
-  <div class="col-lg-12">
-    <h2 class="section-header">
-      What's Up?
-    </h2>
-    <p>Description of the site.</p>
-    <hr />
+<%=
+
+opener = <<-EOS
+  <div class="row">
+    <div class="col-lg-10">
+EOS
+
+closer = <<-EOS
+    </div>
   </div>
+EOS
 
+data.items.sections.map do |section|
+  section_name = section['name']
+  header = <<-EOS
+      <h2 class="section-header">
+        #{section_name}
+      </h2>
+      <hr />
+    EOS
 
-  <%=
-
-  data.items.sections.map do |section|
-    section_name = section['name']
-    header = <<-EOS
-      <div class="col-lg-12">
-        <h2 class="section-header">
-          #{section_name}
-        </h2>
-        <hr />
-      </div>
-      EOS
-
-    header + section['items'].map do |item|
-      item_to_html(item)
-    end.reduce('', :+).strip.to_s
+  contents = section['items'].map do |item|
+    item_to_html(item)
   end.reduce('', :+).strip.to_s
 
-  %>
-</div>
+  opener + header + contents + closer
+
+end.reduce('', :+).strip.to_s
+
+%>
