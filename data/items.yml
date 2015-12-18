@@ -1,0 +1,23 @@
+sections:
+  - name: Abstractions on top of RxSwift
+    items:
+      - name: Project Name
+        link: http://whatever
+        description: A paragraph of text that we'll display.
+      - name: Another Thing
+        link: http://whatever
+        description: A paragraph of text that we'll 🎉
+
+
+  - name: Projects that Extend Other Projects with RxSwift
+    items:
+      - name: Project Name
+        link: http://whatever
+        description: A paragraph of text that we'll display.
+
+
+  - name: Projects with RxSwift Extensions
+    items:
+      - name: Project Name
+        link: http://whatever
+        description: A paragraph of text that we'll display.

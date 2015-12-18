@@ -1,3 +1,6 @@
+require 'lib/custom_helpers'
+
+helpers CustomHelpers
 
 activate :directory_indexes
 
