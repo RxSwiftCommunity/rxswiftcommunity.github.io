@@ -11,6 +11,9 @@ sections:
       - name: TicTacToe
         link: https://github.com/maartenschumacher/TicTacToe
         description: Stateless Tic Tac Toe game with RxSwift.
+      - name: Simple MVVM Login Example
+        link: https://github.com/carlosypunto/ReallySimpleMVVMLoginExampleWithRxSwift
+        description: Simulation of a log in process using RxSwift and MVVM
 
 
   - name: RxSwift Abstractions
