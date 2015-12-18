@@ -3,7 +3,7 @@
 
 [![Build Status](https://travis-ci.org/RxSwiftCommunity/rxswiftcommunity.github.io.svg?branch=source)](https://travis-ci.org/RxSwiftCommunity/rxswiftcommunity.github.io)
 
-<img src="http://community.rxswift.org/images/logo.svg" height="250" />
+<center><img src="http://community.rxswift.org/images/logo.svg" height="250" /></center>
 
 <br/>
 Website for projects that support RxSwift.
