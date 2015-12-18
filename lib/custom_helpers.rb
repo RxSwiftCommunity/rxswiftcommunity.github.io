@@ -12,11 +12,10 @@ module CustomHelpers
           </div>
           <div class="panel-body">
             <p>#{description}</p>
-            <a href="#{link}" class="btn btn-default">Learn More</a>
           </div>
         </div>
       </div>
     EOS
   end
-  
+
 end
