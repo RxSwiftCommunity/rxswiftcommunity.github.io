@@ -17,5 +17,5 @@ module CustomHelpers
       </div>
     EOS
   end
-  
+
 end
