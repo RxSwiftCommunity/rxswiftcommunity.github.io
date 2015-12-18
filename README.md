@@ -1,4 +1,4 @@
-[community.rxswift.org](https://community.rxswift.org)
+[community.rxswift.org](http://community.rxswift.org)
 =========================================================
 
 [![Build Status](https://travis-ci.org/RxSwiftCommunity/rxswiftcommunity.github.io.svg?branch=source)](https://travis-ci.org/RxSwiftCommunity/rxswiftcommunity.github.io)
