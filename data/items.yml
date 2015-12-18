@@ -8,6 +8,9 @@ sections:
       - name: ReactiveWeatherExample
         link: https://github.com/marinbenc/ReactiveWeatherExample
         description: A simple iOS weather app using the MVVM pattern and RxSwift framework.
+      - name: TicTacToe
+      - link: https://github.com/maartenschumacher/TicTacToe
+      - description: Stateless Tic Tac Toe game with RxSwift.
 
 
   - name: RxSwift Abstractions
