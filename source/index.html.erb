@@ -1,10 +1,34 @@
 ---
-title: Welcome to Middleman
+title: RxSwift Community Projects
 ---
 
-<div class="welcome">
-  <h1>Middleman is Watching</h1>
-  <p class="doc">
-    <%= link_to "Read Online Documentation", "http://middlemanapp.com/" %>
-  </p><!-- .doc -->
-</div><!-- .welcome -->
+<%=
+
+opener = <<-EOS
+  <div class="row">
+    <div class="col-lg-10">
+EOS
+
+closer = <<-EOS
+    </div>
+  </div>
+EOS
+
+data.items.sections.map do |section|
+  section_name = section['name']
+  header = <<-EOS
+      <h2 class="section-header">
+        #{section_name}
+      </h2>
+      <hr />
+    EOS
+
+  contents = section['items'].map do |item|
+    item_to_html(item)
+  end.reduce('', :+).strip.to_s
+
+  opener + header + contents + closer
+
+end.reduce('', :+).strip.to_s
+
+%>

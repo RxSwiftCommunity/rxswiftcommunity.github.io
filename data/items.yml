@@ -1,0 +1,46 @@
+sections:
+
+  - name: Apps Built with RxSwift
+    items:
+      - name: Eidolon
+        link: https://github.com/artsy/eidolon
+        description: Artsy's auction bidding kiosk is built with RxSwift and demonstrates some neat uses of the Swift type system.
+      - name: ReactiveWeatherExample
+        link: https://github.com/marinbenc/ReactiveWeatherExample
+        description: A simple iOS weather app using the MVVM pattern and RxSwift framework.
+
+
+  - name: RxSwift Abstractions
+    items:
+      - name: Action
+        link: https://github.com/RxSwiftCommunity/Action
+        description: Encapsulates an action to be performed, usually by a button press. Contains helpful extensions on a variety of UI classes.
+      - name: RxEasing
+        link: https://github.com/lintmachine/RxEasing
+        description: RxEasing provides a few utility functions for applying easing functions to RxSwift Observable streams.
+      - name: RxViewModel
+        link: https://github.com/RxSwiftCommunity/RxViewModel
+        description: RxViewModel is the marriage between MVVM and Rx extensions, inspired by ReactiveCocoa's RVMViewModel project.
+
+
+  - name: Projects that Extend Other Projects with RxSwift
+    items:
+      - name: Moya-ObjectMapper
+        link: https://github.com/ivanbruel/Moya-ObjectMapper
+        description: ObjectMapper bindings for Moya for easier JSON serialization, including RxSwift bindings.
+      - name: NSObject+Rx
+        link: https://github.com/RxSwiftCommunity/NSObject-Rx
+        description: Handy RxSwift extensions on NSObject, including rx_disposeBag.
+      - name: Parse-RxSwift
+        link: https://github.com/bluelinelabs/Parse-RxSwift
+        description: A collection of wrapper classes that allow you to use RxSwift Observers in place of Parse's callbacks.
+      - name: RxAlamofire
+        link: https://github.com/RxSwiftCommunity/RxAlamofire
+        description: RxSwift wrapper around the elegant HTTP networking in Swift Alamofire. It exposes network requests as observables that can be used with RxSwift.
+
+  - name: Projects with RxSwift Extensions
+    items:
+      - name: Moya
+        link: https://github.com/Moya/Moya
+        description: Moya is a network abstraction layer built on top of Alamofire. It exposes network requests as observables that can be used with RxSwift.
+
