@@ -49,3 +49,6 @@ sections:
       - name: Moya
         link: https://github.com/Moya/Moya
         description: Moya is a network abstraction layer built on top of Alamofire. It exposes network requests as observables that can be used with RxSwift.
+      - name: SugarRecord
+        link: https://github.com/SwiftReactive/SugarRecord
+        description: SugarRecord is a CoreData/Realm wrapper. It exposes storage operations and fetches as observables to be used with RxSwift.
