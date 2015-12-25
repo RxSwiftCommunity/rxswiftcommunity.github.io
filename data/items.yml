@@ -52,3 +52,6 @@ sections:
       - name: SugarRecord
         link: https://github.com/SwiftReactive/SugarRecord
         description: SugarRecord is a CoreData/Realm wrapper. It exposes storage operations and fetches as observables to be used with RxSwift.
+      - name: ReactiveCommander
+        link: https://github.com/SwiftReactive/ReactiveCommander
+        description: ReactiveCommander implements the Commands Pattern using NSOperation and NSOperationQueue extensions exposing a Reactive interface.
