@@ -43,6 +43,9 @@ sections:
       - name: RxAlamofire
         link: https://github.com/RxSwiftCommunity/RxAlamofire
         description: RxSwift wrapper around the elegant HTTP networking in Swift Alamofire. It exposes network requests as observables that can be used with RxSwift.
+      - name: RxMKMapView
+        link: https://github.com/RxSwiftCommunity/RxMKMapView
+        description: RxMKMapView is a RxSwift wrapper for MKMapView (MapKit) delegate.
 
   - name: Projects with RxSwift Extensions
     items:
