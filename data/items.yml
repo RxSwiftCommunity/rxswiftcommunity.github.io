@@ -27,7 +27,9 @@ sections:
       - name: RxViewModel
         link: https://github.com/RxSwiftCommunity/RxViewModel
         description: RxViewModel is the marriage between MVVM and Rx extensions, inspired by ReactiveCocoa's RVMViewModel project.
-
+      - name: CollectionVariable
+        link: https://github.com/gitdoapp/CollectionVariable
+        description: RxSwift Variable designed for collections. It exposes a changes observable that notifies when items are inserted or removed from the collection.
 
   - name: Projects that Extend Other Projects with RxSwift
     items:
