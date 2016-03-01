@@ -51,6 +51,9 @@ sections:
       - name: RxNimble
         link: https://github.com/RxSwiftCommunity/RxNimble
         description: Nimble matchers for Observable types, built on top of RxBlocking.
+      - name: RxWebKit
+        link: https://github.com/RxSwiftCommunity/RxWebKit
+        description: RxWebKit is a RxSwift wrapper for WebKit.
 
   - name: Projects with RxSwift Extensions
     items:
