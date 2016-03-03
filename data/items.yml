@@ -54,6 +54,9 @@ sections:
       - name: RxWebKit
         link: https://github.com/RxSwiftCommunity/RxWebKit
         description: RxWebKit is a RxSwift wrapper for WebKit.
+      - name: RxMediaPicker
+        link: https://github.com/ruipfcosta/RxMediaPicker
+        description: A reactive wrapper built around UIImagePickerController.
 
   - name: Projects with RxSwift Extensions
     items:
