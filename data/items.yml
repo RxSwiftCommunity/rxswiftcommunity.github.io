@@ -33,6 +33,9 @@ sections:
       - name: RxOptional
         link: https://github.com/RxSwiftCommunity/RxOptional
         description: RxSwift extentions for Swift optionals and "Occupiable" types
+      - name: RxGesture
+        link: https://github.com/RxSwiftCommunity/RxGesture
+        description: RxSwift extentions for iOS/OSX that allow to easily observe gestures on any view.
 
   - name: Projects that Extend Other Projects with RxSwift
     items:
