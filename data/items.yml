@@ -36,6 +36,9 @@ sections:
       - name: RxGesture
         link: https://github.com/RxSwiftCommunity/RxGesture
         description: RxSwift extentions for iOS/OSX that allow to easily observe gestures on any view.
+      - name: RxPermission
+        link: https://github.com/sunshinejr/RxPermission
+        description: RxSwift bindings for Permissions API in iOS.
 
   - name: Projects that Extend Other Projects with RxSwift
     items:
