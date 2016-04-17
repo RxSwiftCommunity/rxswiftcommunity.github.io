@@ -39,6 +39,9 @@ sections:
       - name: RxPermission
         link: https://github.com/sunshinejr/RxPermission
         description: RxSwift bindings for Permissions API in iOS.
+      - name: RxSegue
+        link: https://github.com/RxSwiftCommunity/RxSegue
+        description: Reactive generic segue, implemented with RxSwift.
 
   - name: Projects that Extend Other Projects with RxSwift
     items:
