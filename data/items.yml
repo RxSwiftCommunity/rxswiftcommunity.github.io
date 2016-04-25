@@ -69,6 +69,9 @@ sections:
       - name: RxMediaPicker
         link: https://github.com/ruipfcosta/RxMediaPicker
         description: A reactive wrapper built around UIImagePickerController.
+      - name: RxMultipeer
+        link: https://github.com/RxSwiftCommunity/RxMultipeer
+        description: A testable RxSwift wrapper around MultipeerConnectivity
 
   - name: Projects with RxSwift Extensions
     items:
