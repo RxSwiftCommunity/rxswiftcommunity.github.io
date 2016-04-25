@@ -13,7 +13,7 @@ sections:
         description: Stateless Tic Tac Toe game with RxSwift.
       - name: Simple MVVM Login Example
         link: https://github.com/carlosypunto/ReallySimpleMVVMLoginExampleWithRxSwift
-        description: Simulation of a log in process using RxSwift and MVVM
+        description: Simulation of a log in process using RxSwift and MVVM.
 
 
   - name: RxSwift Abstractions
@@ -32,7 +32,7 @@ sections:
         description: RxSwift Variable designed for collections. It exposes a changes observable that notifies when items are inserted or removed from the collection.
       - name: RxOptional
         link: https://github.com/RxSwiftCommunity/RxOptional
-        description: RxSwift extentions for Swift optionals and "Occupiable" types
+        description: RxSwift extentions for Swift optionals and "Occupiable" types.
       - name: RxGesture
         link: https://github.com/RxSwiftCommunity/RxGesture
         description: RxSwift extentions for iOS/OSX that allow to easily observe gestures on any view.
@@ -71,7 +71,7 @@ sections:
         description: A reactive wrapper built around UIImagePickerController.
       - name: RxMultipeer
         link: https://github.com/RxSwiftCommunity/RxMultipeer
-        description: A testable RxSwift wrapper around MultipeerConnectivity
+        description: A testable RxSwift wrapper around MultipeerConnectivity.
 
   - name: Projects with RxSwift Extensions
     items:
