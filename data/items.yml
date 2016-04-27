@@ -14,7 +14,9 @@ sections:
       - name: Simple MVVM Login Example
         link: https://github.com/carlosypunto/ReallySimpleMVVMLoginExampleWithRxSwift
         description: Simulation of a log in process using RxSwift and MVVM.
-
+      - name: Count It
+        link: https://github.com/PiXeL16/CountItApp
+        description: Never lose the count again. App with Apple Watch integration that lets you count anything.
 
   - name: RxSwift Abstractions
     items:
