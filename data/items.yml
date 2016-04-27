@@ -72,6 +72,9 @@ sections:
       - name: RxMultipeer
         link: https://github.com/RxSwiftCommunity/RxMultipeer
         description: A testable RxSwift wrapper around MultipeerConnectivity.
+      - name: RxBluetoothKit
+        link: https://github.com/Polidea/RxBluetoothKit
+        description: iOS & OSX Bluetooth library for RxSwift.
 
   - name: Projects with RxSwift Extensions
     items:
