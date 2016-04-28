@@ -7130,7 +7130,7 @@ footer {
     -o-transition: all 0.2s ease-in-out;
     -webkit-transition: all 0.2s ease-in-out;
     transition: all 0.2s ease-in-out;
-    width: 32.37%; }
+    width: 32%; }
     /* line 28, /home/travis/build/RxSwiftCommunity/rxswiftcommunity.github.io/source/stylesheets/widgets/_masonry.scss */
     .grid-item:hover {
       -moz-transform: scale(1.025);
