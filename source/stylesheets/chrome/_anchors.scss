@@ -1,0 +1,10 @@
+// Custom styles for links
+
+a {
+  @include transition(all .4s ease-in-out);
+  color: #E50193;
+
+  &:hover {
+    color: #93018F;
+  }
+}
