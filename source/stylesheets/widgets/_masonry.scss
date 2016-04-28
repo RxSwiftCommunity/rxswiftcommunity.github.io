@@ -1,0 +1,32 @@
+// Base mobile styles
+.grid-item {
+  width: 100%;
+
+  .project-title {
+    word-break: break-all;
+  }
+}
+
+// `Tablet` styles
+@media(min-width: 415px) {
+  .grid {
+    margin-left: 1%;
+  }
+
+  .grid-item {
+    margin-right: 1%;
+    width: 48%;
+  }
+}
+
+// `Desktop` styles
+@media(min-width: 769px) {
+  .grid-item {
+    @include transition(all .2s ease-in-out);
+    width: 32.37%;
+
+    &:hover {
+      @include transform(scale(1.025));
+    }
+  }
+}

@@ -5,10 +5,10 @@ module CustomHelpers
     link = item_hash['link']
     description = item_hash['description']
     <<-EOS
-      <div class="col-md-4">
+      <div class="js-grid-item grid-item">
         <div class="panel panel-default">
           <div class="panel-heading">
-            <a href="#{link}"><h4>#{name}</h4></a>
+            <h4 class="project-title"><a href="#{link}">#{name}</a></h4>
           </div>
           <div class="panel-body">
             <p>#{description}</p>
