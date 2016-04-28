@@ -23,7 +23,7 @@
 @media(min-width: 769px) {
   .grid-item {
     @include transition(all .2s ease-in-out);
-    width: 32.37%;
+    width: 32%;
 
     &:hover {
       @include transform(scale(1.025));
