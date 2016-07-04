@@ -18,8 +18,8 @@ sections:
         link: https://github.com/PiXeL16/CountItApp
         description: Never lose the count again. App with Apple Watch integration that lets you count anything.
       - name: RxTodo
-        link: httpshttps://github.com/devxoul/RxTodo
-        description: iOS Todo Application with RxSwift + MVVM
+        link: https://github.com/devxoul/RxTodo
+        description: iOS Todo Application with RxSwift + MVVM.
 
   - name: RxSwift Abstractions
     items:
