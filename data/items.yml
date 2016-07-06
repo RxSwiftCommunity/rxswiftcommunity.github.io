@@ -47,6 +47,9 @@ sections:
       - name: RxSegue
         link: https://github.com/RxSwiftCommunity/RxSegue
         description: Reactive generic segue, implemented with RxSwift.
+      - name: RxAutoUpdater
+        link: https://github.com/kciter/RxAutoUpdater
+        description: Auto update to data for UITableView/UICollectionView.
 
   - name: Projects that Extend Other Projects with RxSwift
     items:
