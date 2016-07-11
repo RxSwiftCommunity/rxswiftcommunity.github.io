@@ -86,6 +86,9 @@ sections:
       - name: RxStarscream
         link: https://github.com/RxSwiftCommunity/RxStarscream
         description: A lightweight extension to subscribe Starscream websocket events with RxSwift.
+      - name: RxGoogleMaps
+        link: https://github.com/kciter/RxGoogleMaps
+        description: RxGoogleMaps is a RxSwift wrapper for GoogleMaps delegate.
         
   - name: Projects with RxSwift Extensions
     items:
