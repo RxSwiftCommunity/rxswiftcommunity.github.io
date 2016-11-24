@@ -50,6 +50,9 @@ sections:
       - name: RxAutoUpdater
         link: https://github.com/kciter/RxAutoUpdater
         description: Auto update to data for UITableView/UICollectionView.
+      - name: RxFileMonitor
+        link: https://github.com/RxSwiftCommunity/RxFileMonitor
+        description: RxSwift wrapper around CoreFoundation file events (FSEvent).
 
   - name: Projects that Extend Other Projects with RxSwift
     items:
