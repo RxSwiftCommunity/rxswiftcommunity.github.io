@@ -9,6 +9,10 @@
 
 Website for projects that support RxSwift.
 
+## Adding a new project
+
+The site is generated from [this file](https://github.com/RxSwiftCommunity/rxswiftcommunity.github.io/blob/source/data/items.yml); add new projects there in yaml format. If you get stuck, just open an issue!
+
 ## Contributing
 
 1. Fork the project.
