@@ -53,6 +53,9 @@ sections:
       - name: RxFileMonitor
         link: https://github.com/RxSwiftCommunity/RxFileMonitor
         description: RxSwift wrapper around CoreFoundation file events (FSEvent).
+      - name: RxHttpClient
+        link: https://github.com/RxSwiftCommunity/RxHttpClient
+        description: Simple RxSwift wrapper around URLSession.
 
   - name: Projects that Extend Other Projects with RxSwift
     items:
@@ -92,7 +95,7 @@ sections:
       - name: RxGoogleMaps
         link: https://github.com/kciter/RxGoogleMaps
         description: RxGoogleMaps is a RxSwift wrapper for GoogleMaps delegate.
-        
+
   - name: Projects with RxSwift Extensions
     items:
       - name: Moya
