@@ -20,6 +20,9 @@ sections:
       - name: RxTodo
         link: https://github.com/devxoul/RxTodo
         description: iOS Todo Application with RxSwift + MVVM.
+      - name: Who To Follow
+        link: https://github.com/DTVD/The-introduction-to-RxSwift-you-have-been-missing
+        description: The introduction to RxSwift you've been missing, based on famous tutorial on RxJs.
 
   - name: RxSwift Abstractions
     items:
