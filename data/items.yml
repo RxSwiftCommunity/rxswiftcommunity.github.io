@@ -59,6 +59,10 @@ sections:
       - name: RxHttpClient
         link: https://github.com/RxSwiftCommunity/RxHttpClient
         description: Simple RxSwift wrapper around URLSession.
+      - name: RxPager
+        link: https://github.com/RxSwiftCommunity/RxPager
+        description: Simple Pager for RxSwift.
+
 
   - name: Projects that Extend Other Projects with RxSwift
     items:
