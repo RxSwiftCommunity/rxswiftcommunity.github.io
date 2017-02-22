@@ -62,6 +62,9 @@ sections:
       - name: RxPager
         link: https://github.com/RxSwiftCommunity/RxPager
         description: Simple Pager for RxSwift.
+      - name: RxTask
+        link: https://github.com/RxSwiftCommunity/RxTask
+        description: An RxSwift wrapper for running command line tasks via Foundation's Process.
 
 
   - name: Projects that Extend Other Projects with RxSwift
