@@ -105,6 +105,9 @@ sections:
       - name: RxGoogleMaps
         link: https://github.com/kciter/RxGoogleMaps
         description: RxGoogleMaps is a RxSwift wrapper for GoogleMaps delegate.
+      - name: RxGRDB
+        link: https://github.com/RxSwiftCommunity/RxGRDB
+        description: Reactive extensions for SQLite
 
   - name: Projects with RxSwift Extensions
     items:
