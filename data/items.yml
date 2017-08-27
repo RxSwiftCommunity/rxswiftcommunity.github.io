@@ -5,6 +5,9 @@ sections:
       - name: Eidolon
         link: https://github.com/artsy/eidolon
         description: Artsy's auction bidding kiosk is built with RxSwift and demonstrates some neat uses of the Swift type system.
+      - name: RxGitHub
+        link: https://github.com/oronbz/RxGithub
+        description: an example project to demonstrate dependency injection and Swinject in MVVM (Model-View-ViewModel) architecture with RxSwift and firebase.
       - name: ReactiveWeatherExample
         link: https://github.com/marinbenc/ReactiveWeatherExample
         description: A simple iOS weather app using the MVVM pattern and RxSwift framework.
