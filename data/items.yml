@@ -128,6 +128,6 @@ sections:
 
   - name: Documentation & Resources
     items:
-      - name: Chinese Documentation (Unofficial)
-        link: https://beeth0ven.github.io/RxSwift-Chinese-Documentation/
-        description: An unofficial RxSwift chinese documentation website which is published with Gitbook (RxSwift 非官方中文文档).
+      - name: RxSwift 中文文档（非官方）
+        link: https://beeth0ven.github.io/RxSwift-Chinese-Documentation
+        description: An unofficial RxSwift Chinese documentation website which is published with Gitbook.
