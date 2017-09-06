@@ -125,3 +125,9 @@ sections:
       - name: ReactiveCommander
         link: https://github.com/SwiftReactive/ReactiveCommander
         description: ReactiveCommander implements the Commands Pattern using NSOperation and NSOperationQueue extensions exposing a Reactive interface.
+
+  - name: Documentation & Resources
+    items:
+      - name: RxSwift 中文文档（非官方）
+        link: https://beeth0ven.github.io/RxSwift-Chinese-Documentation
+        description: An unofficial RxSwift Chinese documentation website which is published with Gitbook.
