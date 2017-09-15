@@ -73,7 +73,7 @@ sections:
         description: An RxSwift wrapper for running command line tasks via Foundation's Process.
       - name: RxState
         link: https://github.com/RxSwiftCommunity/RxState
-        description: A tiny library built on top of RxSwift and inspired by Redux that facilitates building Unidirectional Data Flow architecture.        
+        description: A tiny library built on top of RxSwift and inspired by Redux that facilitates building Unidirectional Data Flow architecture.
 
   - name: Projects that Extend Other Projects with RxSwift
     items:
