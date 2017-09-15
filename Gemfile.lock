@@ -1,7 +1,7 @@
 GIT
   remote: https://github.com/josephholsten/middleman-gh-pages.git
-  revision: ba53204cc06398b045c215271cd5abe5d3e1aff1
-  branch: support-master-branch
+  revision: 2f5522a4745b7e619d1e76e54a191fd15721bca9
+  branch: master
   specs:
     middleman-gh-pages (0.0.3)
       rake (> 0.9.3)
@@ -44,7 +44,7 @@ GEM
     hooks (0.4.1)
       uber (~> 0.0.14)
     i18n (0.7.0)
-    json (1.8.3)
+    json (1.8.6)
     kramdown (1.9.0)
     listen (2.10.1)
       celluloid (~> 0.16.0)
@@ -124,4 +124,4 @@ DEPENDENCIES
   middleman-gh-pages!
 
 BUNDLED WITH
-   1.10.6
+   1.15.1

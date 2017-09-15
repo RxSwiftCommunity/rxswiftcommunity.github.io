@@ -10,6 +10,7 @@ opener = <<-EOS
 EOS
 
 closer = <<-EOS
+      </div>
     </div>
   </div>
 EOS
@@ -17,11 +18,11 @@ EOS
 data.items.sections.map do |section|
   section_name = section['name']
   header = <<-EOS
-      <h2 class="section-header">
-        #{section_name}
-      </h2>
-      <hr />
-    EOS
+    <div class="page-header">
+      <h2> #{section_name} </h2>
+    </div>
+    <div class="js-grid grid">
+  EOS
 
   contents = section['items'].map do |item|
     item_to_html(item)

@@ -5,6 +5,9 @@ sections:
       - name: Eidolon
         link: https://github.com/artsy/eidolon
         description: Artsy's auction bidding kiosk is built with RxSwift and demonstrates some neat uses of the Swift type system.
+      - name: RxGitHub
+        link: https://github.com/oronbz/RxGithub
+        description: an example project to demonstrate dependency injection and Swinject in MVVM (Model-View-ViewModel) architecture with RxSwift and firebase.
       - name: ReactiveWeatherExample
         link: https://github.com/marinbenc/ReactiveWeatherExample
         description: A simple iOS weather app using the MVVM pattern and RxSwift framework.
@@ -13,8 +16,16 @@ sections:
         description: Stateless Tic Tac Toe game with RxSwift.
       - name: Simple MVVM Login Example
         link: https://github.com/carlosypunto/ReallySimpleMVVMLoginExampleWithRxSwift
-        description: Simulation of a log in process using RxSwift and MVVM
-
+        description: Simulation of a log in process using RxSwift and MVVM.
+      - name: Count It
+        link: https://github.com/PiXeL16/CountItApp
+        description: Never lose the count again. App with Apple Watch integration that lets you count anything.
+      - name: RxTodo
+        link: https://github.com/devxoul/RxTodo
+        description: iOS Todo Application with RxSwift + MVVM.
+      - name: Who To Follow
+        link: https://github.com/DTVD/The-introduction-to-RxSwift-you-have-been-missing
+        description: The introduction to RxSwift you've been missing, based on famous tutorial on RxJs.
 
   - name: RxSwift Abstractions
     items:
@@ -32,10 +43,34 @@ sections:
         description: RxSwift Variable designed for collections. It exposes a changes observable that notifies when items are inserted or removed from the collection.
       - name: RxOptional
         link: https://github.com/RxSwiftCommunity/RxOptional
-        description: RxSwift extentions for Swift optionals and "Occupiable" types
+        description: RxSwift extentions for Swift optionals and "Occupiable" types.
       - name: RxGesture
         link: https://github.com/RxSwiftCommunity/RxGesture
         description: RxSwift extentions for iOS/OSX that allow to easily observe gestures on any view.
+      - name: RxPermission
+        link: https://github.com/sunshinejr/RxPermission
+        description: RxSwift bindings for Permissions API in iOS.
+      - name: RxSegue
+        link: https://github.com/RxSwiftCommunity/RxSegue
+        description: Reactive generic segue, implemented with RxSwift.
+      - name: RxAutoUpdater
+        link: https://github.com/kciter/RxAutoUpdater
+        description: Auto update to data for UITableView/UICollectionView.
+      - name: RxFileMonitor
+        link: https://github.com/RxSwiftCommunity/RxFileMonitor
+        description: RxSwift wrapper around CoreFoundation file events (FSEvent).
+      - name: RxHttpClient
+        link: https://github.com/RxSwiftCommunity/RxHttpClient
+        description: Simple RxSwift wrapper around URLSession.
+      - name: RxPager
+        link: https://github.com/RxSwiftCommunity/RxPager
+        description: Simple Pager for RxSwift.
+      - name: RxTask
+        link: https://github.com/RxSwiftCommunity/RxTask
+        description: An RxSwift wrapper for running command line tasks via Foundation's Process.
+      - name: RxState
+        link: https://github.com/RxSwiftCommunity/RxState
+        description: A tiny library built on top of RxSwift and inspired by Redux that facilitates building Unidirectional Data Flow architecture.
 
   - name: Projects that Extend Other Projects with RxSwift
     items:
@@ -63,6 +98,21 @@ sections:
       - name: RxMediaPicker
         link: https://github.com/ruipfcosta/RxMediaPicker
         description: A reactive wrapper built around UIImagePickerController.
+      - name: RxMultipeer
+        link: https://github.com/RxSwiftCommunity/RxMultipeer
+        description: A testable RxSwift wrapper around MultipeerConnectivity.
+      - name: RxBluetoothKit
+        link: https://github.com/Polidea/RxBluetoothKit
+        description: iOS & OSX Bluetooth library for RxSwift.
+      - name: RxStarscream
+        link: https://github.com/RxSwiftCommunity/RxStarscream
+        description: A lightweight extension to subscribe Starscream websocket events with RxSwift.
+      - name: RxGoogleMaps
+        link: https://github.com/kciter/RxGoogleMaps
+        description: RxGoogleMaps is a RxSwift wrapper for GoogleMaps delegate.
+      - name: RxGRDB
+        link: https://github.com/RxSwiftCommunity/RxGRDB
+        description: Reactive extensions for SQLite
 
   - name: Projects with RxSwift Extensions
     items:
@@ -75,3 +125,9 @@ sections:
       - name: ReactiveCommander
         link: https://github.com/SwiftReactive/ReactiveCommander
         description: ReactiveCommander implements the Commands Pattern using NSOperation and NSOperationQueue extensions exposing a Reactive interface.
+
+  - name: Documentation & Resources
+    items:
+      - name: RxSwift 中文文档（非官方）
+        link: https://beeth0ven.github.io/RxSwift-Chinese-Documentation
+        description: An unofficial RxSwift Chinese documentation website which is published with Gitbook.

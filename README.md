@@ -3,11 +3,15 @@
 
 [![Build Status](https://travis-ci.org/RxSwiftCommunity/rxswiftcommunity.github.io.svg?branch=source)](https://travis-ci.org/RxSwiftCommunity/rxswiftcommunity.github.io)
 
-<center><img src="http://community.rxswift.org/images/logo.svg" height="250" /></center>
+<center><img src="http://rxswiftcommunity.github.io/images/logo.svg" height="250" /></center>
 
 <br/>
 
 Website for projects that support RxSwift.
+
+## Adding a new project
+
+The site is generated from [this file](https://github.com/RxSwiftCommunity/rxswiftcommunity.github.io/blob/source/data/items.yml); add new projects there in yaml format. If you get stuck, just open an issue!
 
 ## Contributing
 
