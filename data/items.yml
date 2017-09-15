@@ -26,6 +26,9 @@ sections:
       - name: Who To Follow
         link: https://github.com/DTVD/The-introduction-to-RxSwift-you-have-been-missing
         description: The introduction to RxSwift you've been missing, based on famous tutorial on RxJs.
+      - name: EventBlank
+        link: https://github.com/realm-demos/EventBlank
+        description: A template conference app, featuring real-time schedule and data changes & running on Realm 🚀
 
   - name: RxSwift Abstractions
     items:
@@ -70,7 +73,7 @@ sections:
         description: An RxSwift wrapper for running command line tasks via Foundation's Process.
       - name: RxState
         link: https://github.com/RxSwiftCommunity/RxState
-        description: A tiny library built on top of RxSwift and inspired by Redux that facilitates building Unidirectional Data Flow architecture.
+        description: A tiny library built on top of RxSwift and inspired by Redux that facilitates building Unidirectional Data Flow architecture.        
 
   - name: Projects that Extend Other Projects with RxSwift
     items:
@@ -113,6 +116,9 @@ sections:
       - name: RxGRDB
         link: https://github.com/RxSwiftCommunity/RxGRDB
         description: Reactive extensions for SQLite
+      - name: RxRealm
+        link: https://github.com/RxSwiftCommunity/RxRealm
+        description: RxSwift extension for RealmSwift's types.
 
   - name: Projects with RxSwift Extensions
     items:
