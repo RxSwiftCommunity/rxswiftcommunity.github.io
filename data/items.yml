@@ -119,6 +119,9 @@ sections:
       - name: RxRealm
         link: https://github.com/RxSwiftCommunity/RxRealm
         description: RxSwift extension for RealmSwift's types.
+      - name: RxRealmDataSources
+        link: https://github.com/RxSwiftCommunity/RxRealmDataSources
+        description: Bind easily table and collection views to RxRealm results.
 
   - name: Projects with RxSwift Extensions
     items:
