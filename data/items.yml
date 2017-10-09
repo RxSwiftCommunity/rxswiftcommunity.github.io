@@ -74,6 +74,9 @@ sections:
       - name: RxState
         link: https://github.com/RxSwiftCommunity/RxState
         description: A tiny library built on top of RxSwift and inspired by Redux that facilitates building Unidirectional Data Flow architecture.
+      - name: RxFacebook
+        link: https://github.com/sauravexodus/RxFacebook
+        description: RxSwift extensions for Facebook Login and Graph Requests
 
   - name: Projects that Extend Other Projects with RxSwift
     items:
