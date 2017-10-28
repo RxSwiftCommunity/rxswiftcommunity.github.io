@@ -24,7 +24,9 @@ data.items.sections.map do |section|
     <div class="js-grid grid">
   EOS
 
-  contents = section['items'].map do |item|
+  contents = section['items']
+              .sort { |a,b| a['name'] <=> b['name'] }
+              .map do |item|
     item_to_html(item)
   end.reduce('', :+).strip.to_s
 
