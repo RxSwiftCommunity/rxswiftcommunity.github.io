@@ -77,6 +77,12 @@ sections:
       - name: RxFacebook
         link: https://github.com/sauravexodus/RxFacebook
         description: RxSwift extensions for Facebook Login and Graph Requests
+      - name: RxFeedback
+        link: https://github.com/kzaher/RxFeedback
+        description: Feedback loops architecture for RxSwift
+      - name: RxAnimated
+        link: https://github.com/RxSwiftCommunity/RxAnimated
+        description: Animated RxCocoa bindings
 
   - name: Projects that Extend Other Projects with RxSwift
     items:
