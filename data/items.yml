@@ -83,6 +83,9 @@ sections:
       - name: RxAnimated
         link: https://github.com/RxSwiftCommunity/RxAnimated
         description: Animated RxCocoa bindings
+      - name: RxFlow
+        link: https://github.com/RxSwiftCommunity/RxFlow
+        description: RxFlow is a navigation framework for iOS applications based on a Reactive Flow Coordinator pattern.
 
   - name: Projects that Extend Other Projects with RxSwift
     items:
