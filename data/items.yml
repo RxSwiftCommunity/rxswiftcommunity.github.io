@@ -136,7 +136,7 @@ sections:
         description: Bind easily table and collection views to RxRealm results.
       - name: RxASDataSources
         link: https://github.com/RxSwiftCommunity/RxASDataSources
-        description: RxDataSources for AsyncDisplayKit/Texture: ASTableNode & ASCollectionNode.
+        description: RxDataSources for AsyncDisplayKit/Texture, wrapping ASTableNode & ASCollectionNode.
 
   - name: Projects with RxSwift Extensions
     items:
