@@ -86,6 +86,9 @@ sections:
       - name: RxFlow
         link: https://github.com/RxSwiftCommunity/RxFlow
         description: RxFlow is a navigation framework for iOS applications based on a Reactive Flow Coordinator pattern.
+      - name: RxSwiftExt
+        link: https://github.com/RxSwiftCommunity/RxSwiftExt
+        description: A collection of Rx operators & tools not found in the core RxSwift distribution
 
   - name: Projects that Extend Other Projects with RxSwift
     items:
