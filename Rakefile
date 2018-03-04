@@ -26,7 +26,8 @@ end
 
 desc "Builds, then publishes"
 task :deploy do
-  sh "bundle exec rake publish BRANCH_NAME=master ALLOW_DIRTY=true"
+  sh "./scripts/github_fetch.rb" # Fetch GitHub-info and populate items.yml
+  sh "bundle exec rake publish BRANCH_NAME=master ALLOW_DIRTY=true" # Build & Deploy
 end
 
 task :default => [:lint_projects, :travis]
