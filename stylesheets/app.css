@@ -7147,3 +7147,21 @@ a {
   /* line 7, /home/travis/build/RxSwiftCommunity/rxswiftcommunity.github.io/source/stylesheets/chrome/_anchors.scss */
   a:hover {
     color: #93018F; }
+
+/* line 15, /home/travis/build/RxSwiftCommunity/rxswiftcommunity.github.io/source/stylesheets/app.scss */
+.gh-meta {
+  display: inline-block; }
+  /* line 18, /home/travis/build/RxSwiftCommunity/rxswiftcommunity.github.io/source/stylesheets/app.scss */
+  .gh-meta .gh-item {
+    float: left;
+    margin-right: 8px; }
+
+/* line 24, /home/travis/build/RxSwiftCommunity/rxswiftcommunity.github.io/source/stylesheets/app.scss */
+.text-raised-4 {
+  position: relative;
+  top: -4px; }
+
+/* line 29, /home/travis/build/RxSwiftCommunity/rxswiftcommunity.github.io/source/stylesheets/app.scss */
+.text-raised-6 {
+  position: relative;
+  top: -6px; }
