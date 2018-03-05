@@ -51,9 +51,6 @@ sections:
     repo: RxSwiftCommunity/RxState
     description: A tiny library built on top of RxSwift and inspired by Redux that
       facilitates building Unidirectional Data Flow architecture.
-  - name: RxFacebook
-    repo: sauravexodus/RxFacebook
-    description: RxSwift extensions for Facebook Login and Graph Requests
   - name: RxFeedback
     repo: kzaher/RxFeedback
     description: Feedback loops architecture for RxSwift
@@ -68,6 +65,9 @@ sections:
     repo: RxSwiftCommunity/RxSwiftExt
     description: A collection of Rx operators & tools not found in the core RxSwift
       distribution
+  - name: RxDataSources
+    repo: RxSwiftCommunity/RxDataSources
+    description: UITableView and UICollectionView Data Sources for RxSwift
 - name: Projects that Extend Other Projects with RxSwift
   items:
   - name: Moya-ObjectMapper
@@ -77,6 +77,9 @@ sections:
   - name: NSObject+Rx
     repo: RxSwiftCommunity/NSObject-Rx
     description: Handy RxSwift extensions on NSObject, including rx_disposeBag.
+  - name: RxFacebook
+    repo: sauravexodus/RxFacebook
+    description: RxSwift extensions for Facebook Login and Graph Requests
   - name: Parse-RxSwift
     repo: bluelinelabs/Parse-RxSwift
     description: A collection of wrapper classes that allow you to use RxSwift Observers
