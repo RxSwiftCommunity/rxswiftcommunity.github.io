@@ -10,3 +10,23 @@
 
 // Page chrome
 @import "chrome/anchors";
+
+// General styles
+.gh-meta {
+    display: inline-block;
+    
+    .gh-item {
+        float: left;
+        margin-right: 8px;
+    }
+}
+
+.text-raised-4 {
+    position: relative;
+    top: -4px;
+}
+
+.text-raised-6 {
+    position: relative;
+    top: -6px;
+}

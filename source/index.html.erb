@@ -4,6 +4,9 @@ title: RxSwift Community Projects
 
 <%=
 
+time = Time.now
+@last_updated = time.strftime("%b #{time.day.ordinalize} %Y %H:%M")
+
 opener = <<-EOS
   <div class="row">
     <div class="col-lg-10 col-lg-offset-1">
@@ -25,10 +28,20 @@ data.items.sections.map do |section|
   EOS
 
   contents = section['items']
-              .sort { |a,b| a['name'] <=> b['name'] }
-              .map do |item|
-    item_to_html(item)
-  end.reduce('', :+).strip.to_s
+              .sort { |a, b| 
+                # If this is a GitHub repo, sort by last update.
+                # Otherwise, sort alphabetically.
+                if a.key?("updated_at") && b.key?("updated_at") then
+                  date_a = Time.parse(a["updated_at"])
+                  date_b = Time.parse(b["updated_at"])
+
+                  date_b <=> date_a
+                else
+                  a['name'] <=> b['name']
+                end
+              }
+              .map do |item| item_to_html(item) end
+              .reduce('', :+).strip.to_s
 
   opener + header + contents + closer
 
