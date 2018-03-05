@@ -47,10 +47,6 @@ sections:
     repo: RxSwiftCommunity/RxTask
     description: An RxSwift wrapper for running command line tasks via Foundation's
       Process.
-  - name: RxState
-    repo: RxSwiftCommunity/RxState
-    description: A tiny library built on top of RxSwift and inspired by Redux that
-      facilitates building Unidirectional Data Flow architecture.
   - name: RxFeedback
     repo: kzaher/RxFeedback
     description: Feedback loops architecture for RxSwift
@@ -176,3 +172,14 @@ sections:
     link: https://beeth0ven.github.io/RxSwift-Chinese-Documentation
     description: An unofficial RxSwift Chinese documentation website which is published
       with Gitbook.
+      
+- name: Want to contribute? These repositories are in need of an update!
+  items:
+  - name: RxMediaPicker
+    repo: RxSwiftCommunity/RxMediaPicker
+    description: A reactive wrapper built around UIImagePickerController.
+  - name: RxState
+    repo: RxSwiftCommunity/RxState
+    description: A tiny library built on top of RxSwift and inspired by Redux that
+      facilitates building Unidirectional Data Flow architecture.
+    
