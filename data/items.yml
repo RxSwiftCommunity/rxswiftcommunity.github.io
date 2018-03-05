@@ -6,305 +6,167 @@ sections:
     repo: RxSwiftCommunity/Action
     description: Encapsulates an action to be performed, usually by a button press.
       Contains helpful extensions on a variety of UI classes.
-    stargazers: 440
-    watchers: 45
-    updated_at: '2018-02-27T07:47:30Z'
   - name: RxEasing
     repo: lintmachine/RxEasing
     description: RxEasing provides a few utility functions for applying easing functions
       to RxSwift Observable streams.
-    stargazers: 4
-    watchers: 2
-    updated_at: '2017-07-20T03:14:57Z'
   - name: RxViewModel
     repo: RxSwiftCommunity/RxViewModel
     description: RxViewModel is the marriage between MVVM and Rx extensions, inspired
       by ReactiveCocoa's RVMViewModel project.
-    stargazers: 296
-    watchers: 32
-    updated_at: '2018-02-23T10:42:38Z'
   - name: CollectionVariable
     repo: gitdoapp/CollectionVariable
     description: RxSwift Variable designed for collections. It exposes a changes observable
       that notifies when items are inserted or removed from the collection.
-    stargazers: 28
-    watchers: 2
-    updated_at: '2017-08-12T04:09:03Z'
   - name: RxOptional
     repo: RxSwiftCommunity/RxOptional
     description: RxSwift extentions for Swift optionals and "Occupiable" types.
-    stargazers: 373
-    watchers: 43
-    updated_at: '2018-02-25T10:32:24Z'
   - name: RxGesture
     repo: RxSwiftCommunity/RxGesture
     description: RxSwift extentions for iOS/OSX that allow to easily observe gestures
       on any view.
-    stargazers: 541
-    watchers: 46
-    updated_at: '2018-03-02T04:01:20Z'
   - name: RxPermission
     repo: sunshinejr/RxPermission
     description: RxSwift bindings for Permissions API in iOS.
-    stargazers: 207
-    watchers: 9
-    updated_at: '2018-02-21T09:18:51Z'
   - name: RxSegue
     repo: RxSwiftCommunity/RxSegue
     description: Reactive generic segue, implemented with RxSwift.
-    stargazers: 75
-    watchers: 35
-    updated_at: '2018-01-12T11:46:38Z'
   - name: RxAutoUpdater
     repo: kciter/RxAutoUpdater
     description: Auto update to data for UITableView/UICollectionView.
-    stargazers: 19
-    watchers: 3
-    updated_at: '2017-07-20T03:17:58Z'
   - name: RxFileMonitor
     repo: RxSwiftCommunity/RxFileMonitor
     description: RxSwift wrapper around CoreFoundation file events (FSEvent).
-    stargazers: 24
-    watchers: 4
-    updated_at: '2018-02-13T04:10:58Z'
   - name: RxHttpClient
     repo: RxSwiftCommunity/RxHttpClient
     description: Simple RxSwift wrapper around URLSession.
-    stargazers: 17
-    watchers: 2
-    updated_at: '2018-02-10T21:29:22Z'
   - name: RxPager
     repo: RxSwiftCommunity/RxPager
     description: Simple Pager for RxSwift.
-    stargazers: 30
-    watchers: 4
-    updated_at: '2018-02-06T11:25:23Z'
   - name: RxTask
     repo: RxSwiftCommunity/RxTask
     description: An RxSwift wrapper for running command line tasks via Foundation's
       Process.
-    stargazers: 11
-    watchers: 38
-    updated_at: '2017-10-30T03:52:36Z'
   - name: RxState
     repo: RxSwiftCommunity/RxState
     description: A tiny library built on top of RxSwift and inspired by Redux that
       facilitates building Unidirectional Data Flow architecture.
-    stargazers: 88
-    watchers: 6
-    updated_at: '2018-02-14T00:35:28Z'
   - name: RxFacebook
     repo: sauravexodus/RxFacebook
     description: RxSwift extensions for Facebook Login and Graph Requests
-    stargazers: 2
-    watchers: 1
-    updated_at: '2017-12-08T21:10:47Z'
   - name: RxFeedback
     repo: kzaher/RxFeedback
     description: Feedback loops architecture for RxSwift
-    stargazers: 483
-    watchers: 25
-    updated_at: '2018-02-28T13:04:08Z'
   - name: RxAnimated
     repo: RxSwiftCommunity/RxAnimated
     description: Animated RxCocoa bindings
-    stargazers: 355
-    watchers: 12
-    updated_at: '2018-02-28T11:43:09Z'
   - name: RxFlow
     repo: RxSwiftCommunity/RxFlow
     description: RxFlow is a navigation framework for iOS applications based on a
       Reactive Flow Coordinator pattern.
-    stargazers: 673
-    watchers: 21
-    updated_at: '2018-03-02T08:23:03Z'
   - name: RxSwiftExt
     repo: RxSwiftCommunity/RxSwiftExt
     description: A collection of Rx operators & tools not found in the core RxSwift
       distribution
-    stargazers: 424
-    watchers: 41
-    updated_at: '2018-02-28T14:37:00Z'
 - name: Projects that Extend Other Projects with RxSwift
   items:
   - name: Moya-ObjectMapper
     repo: ivanbruel/Moya-ObjectMapper
     description: ObjectMapper bindings for Moya for easier JSON serialization, including
       RxSwift bindings.
-    stargazers: 329
-    watchers: 8
-    updated_at: '2018-03-01T13:59:57Z'
   - name: NSObject+Rx
     repo: RxSwiftCommunity/NSObject-Rx
     description: Handy RxSwift extensions on NSObject, including rx_disposeBag.
-    stargazers: 285
-    watchers: 37
-    updated_at: '2018-03-01T04:07:08Z'
   - name: Parse-RxSwift
     repo: bluelinelabs/Parse-RxSwift
     description: A collection of wrapper classes that allow you to use RxSwift Observers
       in place of Parse's callbacks.
-    stargazers: 32
-    watchers: 2
-    updated_at: '2017-10-26T20:44:18Z'
   - name: RxAlamofire
     repo: RxSwiftCommunity/RxAlamofire
     description: RxSwift wrapper around the elegant HTTP networking in Swift Alamofire.
       It exposes network requests as observables that can be used with RxSwift.
-    stargazers: 885
-    watchers: 61
-    updated_at: '2018-03-01T04:05:22Z'
   - name: RxMKMapView
     repo: RxSwiftCommunity/RxMKMapView
     description: RxMKMapView is a RxSwift wrapper for MKMapView (MapKit) delegate.
-    stargazers: 54
-    watchers: 34
-    updated_at: '2018-02-12T17:20:12Z'
   - name: RxNimble
     repo: RxSwiftCommunity/RxNimble
     description: Nimble matchers for Observable types, built on top of RxBlocking.
-    stargazers: 106
-    watchers: 6
-    updated_at: '2018-02-10T11:34:07Z'
   - name: RxWebKit
     repo: RxSwiftCommunity/RxWebKit
     description: RxWebKit is a RxSwift wrapper for WebKit.
-    stargazers: 70
-    watchers: 39
-    updated_at: '2018-02-19T04:11:45Z'
   - name: RxMediaPicker
     repo: ruipfcosta/RxMediaPicker
     description: A reactive wrapper built around UIImagePickerController.
-    stargazers: 100
-    watchers: 36
-    updated_at: '2018-02-07T15:27:54Z'
   - name: RxMultipeer
     repo: RxSwiftCommunity/RxMultipeer
     description: A testable RxSwift wrapper around MultipeerConnectivity.
-    stargazers: 49
-    watchers: 5
-    updated_at: '2018-01-06T14:11:24Z'
   - name: RxBluetoothKit
     repo: Polidea/RxBluetoothKit
     description: iOS & OSX Bluetooth library for RxSwift.
-    stargazers: 715
-    watchers: 29
-    updated_at: '2018-03-02T14:30:41Z'
   - name: RxStarscream
     repo: RxSwiftCommunity/RxStarscream
     description: A lightweight extension to subscribe Starscream websocket events
       with RxSwift.
-    stargazers: 62
-    watchers: 5
-    updated_at: '2018-02-17T13:47:59Z'
   - name: RxGoogleMaps
     repo: kciter/RxGoogleMaps
     description: RxGoogleMaps is a RxSwift wrapper for GoogleMaps delegate.
-    stargazers: 20
-    watchers: 2
-    updated_at: '2017-09-20T15:30:22Z'
   - name: RxGRDB
     repo: RxSwiftCommunity/RxGRDB
     description: Reactive extensions for SQLite
-    stargazers: 56
-    watchers: 4
-    updated_at: '2018-03-01T07:21:37Z'
   - name: RxRealm
     repo: RxSwiftCommunity/RxRealm
     description: RxSwift extension for RealmSwift's types.
-    stargazers: 611
-    watchers: 55
-    updated_at: '2018-03-03T03:55:01Z'
   - name: RxRealmDataSources
     repo: RxSwiftCommunity/RxRealmDataSources
     description: Bind easily table and collection views to RxRealm results.
-    stargazers: 97
-    watchers: 9
-    updated_at: '2018-02-23T06:23:33Z'
   - name: RxASDataSources
     repo: RxSwiftCommunity/RxASDataSources
     description: RxDataSources for AsyncDisplayKit/Texture, wrapping ASTableNode &
       ASCollectionNode.
-    stargazers: 41
-    watchers: 4
-    updated_at: '2018-02-26T08:43:19Z'
 - name: Projects with RxSwift Extensions
   items:
   - name: Moya
     repo: Moya/Moya
     description: Moya is a network abstraction layer built on top of Alamofire. It
       exposes network requests as observables that can be used with RxSwift.
-    stargazers: 8251
-    watchers: 220
-    updated_at: '2018-03-03T14:24:57Z'
   - name: SugarRecord
     repo: SwiftReactive/SugarRecord
     description: SugarRecord is a CoreData/Realm wrapper. It exposes storage operations
       and fetches as observables to be used with RxSwift.
-    stargazers: 1991
-    watchers: 63
-    updated_at: '2018-03-02T03:02:15Z'
 - name: Apps Built with RxSwift
   items:
   - name: Eidolon
     repo: artsy/eidolon
     description: Artsy's auction bidding kiosk is built with RxSwift and demonstrates
       some neat uses of the Swift type system.
-    stargazers: 2166
-    watchers: 101
-    updated_at: '2018-03-03T18:10:33Z'
   - name: RxGitHub
     repo: oronbz/RxGithub
     description: an example project to demonstrate dependency injection and Swinject
       in MVVM (Model-View-ViewModel) architecture with RxSwift and firebase.
-    stargazers: 38
-    watchers: 3
-    updated_at: '2018-02-26T21:41:32Z'
   - name: ReactiveWeatherExample
     repo: marinbenc/ReactiveWeatherExample
     description: A simple iOS weather app using the MVVM pattern and RxSwift framework.
-    stargazers: 181
-    watchers: 12
-    updated_at: '2018-02-27T11:55:53Z'
   - name: TicTacToe
     repo: maartenschumacher/TicTacToe
     description: Stateless Tic Tac Toe game with RxSwift.
-    stargazers: 8
-    watchers: 3
-    updated_at: '2017-10-17T09:59:17Z'
   - name: Simple MVVM Login Example
     repo: carlosypunto/ReallySimpleMVVMLoginExampleWithRxSwift
     description: Simulation of a log in process using RxSwift and MVVM.
-    stargazers: 74
-    watchers: 8
-    updated_at: '2018-02-04T15:35:27Z'
   - name: Count It
     repo: PiXeL16/CountItApp
     description: Never lose the count again. App with Apple Watch integration that
       lets you count anything.
-    stargazers: 46
-    watchers: 6
-    updated_at: '2018-02-05T04:05:51Z'
   - name: RxTodo
     repo: devxoul/RxTodo
     description: iOS Todo Application with RxSwift + MVVM.
-    stargazers: 906
-    watchers: 35
-    updated_at: '2018-03-02T06:23:47Z'
   - name: Who To Follow
     repo: DTVD/The-introduction-to-RxSwift-you-have-been-missing
     description: The introduction to RxSwift you've been missing, based on famous
       tutorial on RxJs.
-    stargazers: 317
-    watchers: 11
-    updated_at: '2018-03-03T06:32:16Z'
   - name: EventBlank
     repo: realm-demos/EventBlank
     description: "A template conference app, featuring real-time schedule and data
       changes & running on Realm \U0001F680"
-    stargazers: 43
-    watchers: 8
-    updated_at: '2018-01-29T16:40:22Z'
 - name: Documentation & Resources
   items:
   - name: RxSwift 中文文档（非官方）
