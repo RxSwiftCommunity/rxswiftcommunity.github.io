@@ -68,6 +68,9 @@ sections:
   - name: RxDataSources
     repo: RxSwiftCommunity/RxDataSources
     description: UITableView and UICollectionView Data Sources for RxSwift
+  - name: RxTheme
+    repo: RxSwiftCommunity/RxTheme
+    description: Theme management based on Rx, easy to use, easy to extend.
 - name: Projects that Extend Other Projects with RxSwift
   items:
   - name: Moya-ObjectMapper
