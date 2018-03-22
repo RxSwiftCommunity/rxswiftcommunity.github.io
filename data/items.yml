@@ -173,6 +173,9 @@ sections:
     repo: realm-demos/EventBlank
     description: "A template conference app, featuring real-time schedule and data
       changes & running on Realm \U0001F680"
+  - name: Papr
+    repo: jdisho/Papr
+    description: "An Unsplash app for iOS, using MVVM+Coordinator pattern with RxSwift"
 - name: Documentation & Resources
   items:
   - name: RxSwift 中文文档（非官方）
