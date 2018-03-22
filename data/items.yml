@@ -175,7 +175,7 @@ sections:
       changes & running on Realm \U0001F680"
   - name: Papr
     repo: jdisho/Papr
-    description: ":octocat: An Unsplash app for iOS, using MVVM+Coordinator pattern with RxSwift"
+    description: "An Unsplash app for iOS, using MVVM+Coordinator pattern with RxSwift"
 - name: Documentation & Resources
   items:
   - name: RxSwift 中文文档（非官方）
