@@ -71,6 +71,9 @@ sections:
   - name: RxTheme
     repo: RxSwiftCommunity/RxTheme
     description: Theme management based on Rx, easy to use, easy to extend.
+  - name: ReactorKit
+    repo: ReactorKit/ReactorKit
+    description: "A framework for a reactive and unidirectional Swift application architecture"
 - name: Projects that Extend Other Projects with RxSwift
   items:
   - name: Moya-ObjectMapper
