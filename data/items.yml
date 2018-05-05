@@ -179,6 +179,9 @@ sections:
   - name: Papr
     repo: jdisho/Papr
     description: "An Unsplash app for iOS, using MVVM+Coordinator pattern with RxSwift"
+  - name: RxBookshelf
+    repo: emenegro/rx-bookshelf
+    description: "Simple project of a bookshelf to learn Reactive programming in Swift with RxSwift"
 - name: Documentation & Resources
   items:
   - name: RxSwift 中文文档（非官方）
