@@ -132,6 +132,9 @@ sections:
     repo: RxSwiftCommunity/RxASDataSources
     description: RxDataSources for AsyncDisplayKit/Texture, wrapping ASTableNode &
       ASCollectionNode.
+  - name: RxKingfisher
+    repo: RxSwiftCommunity/RxKingfisher
+    description: Reactive extension for the Kingfisher image downloading and caching library.
 - name: Projects with RxSwift Extensions
   items:
   - name: Moya
