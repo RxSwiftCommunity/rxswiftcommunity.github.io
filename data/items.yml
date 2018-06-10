@@ -61,6 +61,10 @@ sections:
     repo: RxSwiftCommunity/RxFlow
     description: RxFlow is a navigation framework for iOS applications based on a
       Reactive Flow Coordinator pattern.
+  - name: RxReduce
+    repo: RxSwiftCommunity/RxReduce
+    description: RxReduce is a lightweight framework that ease the implementation 
+      of a state container pattern in a Reactive Programming compliant way.
   - name: RxSwiftExt
     repo: RxSwiftCommunity/RxSwiftExt
     description: A collection of Rx operators & tools not found in the core RxSwift
