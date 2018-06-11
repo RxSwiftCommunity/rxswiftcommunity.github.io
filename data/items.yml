@@ -139,6 +139,9 @@ sections:
   - name: RxKingfisher
     repo: RxSwiftCommunity/RxKingfisher
     description: Reactive extension for the Kingfisher image downloading and caching library.
+  - name: RxContacts
+    repo: RxSwiftCommunity/RxContacts
+    description: RxContacts is a RxSwift wrapper around the Contacts Framework. 
 - name: Projects with RxSwift Extensions
   items:
   - name: Moya
