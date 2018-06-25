@@ -78,6 +78,9 @@ sections:
   - name: ReactorKit
     repo: ReactorKit/ReactorKit
     description: "A framework for a reactive and unidirectional Swift application architecture"
+  - name: RxValidator
+    repo: vbmania/RxValidator
+    description: "Simple, Extensible, Flexible Validation Checker"    
 - name: Projects that Extend Other Projects with RxSwift
   items:
   - name: Moya-ObjectMapper
