@@ -87,6 +87,9 @@ sections:
   - name: RxBiBinding
     repo: RxSwiftCommunity/RxBiBinding
     description: "Reactive two-way binding"   
+  - name: RxLocalizer
+    repo: RxSwiftCommunity/RxLocalizer
+    description: "Localize your apps, using RxSwift"  
 - name: Projects that Extend Other Projects with RxSwift
   items:
   - name: Moya-ObjectMapper
