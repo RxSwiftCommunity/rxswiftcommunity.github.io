@@ -23,8 +23,7 @@ sections:
     description: RxSwift extentions for Swift optionals and "Occupiable" types.
   - name: RxGesture
     repo: RxSwiftCommunity/RxGesture
-    description: RxSwift extentions for iOS/OSX that allow to easily observe gestures
-      on any view.
+    description: RxSwift extentions for iOS/OSX that allow to easily observe gestures on any view.
   - name: RxPermission
     repo: sunshinejr/RxPermission
     description: RxSwift bindings for Permissions API in iOS.
