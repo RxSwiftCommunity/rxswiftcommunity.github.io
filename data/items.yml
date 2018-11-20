@@ -156,6 +156,9 @@ sections:
   - name: RxContacts
     repo: RxSwiftCommunity/RxContacts
     description: RxContacts is a RxSwift wrapper around the Contacts Framework. 
+  - name: RxCocoa-Texture
+    repo: GeekTree0101/RxCocoa-Texture
+    description: RxCocoa Extension Library for Texture. 
 - name: Projects with RxSwift Extensions
   items:
   - name: Moya
