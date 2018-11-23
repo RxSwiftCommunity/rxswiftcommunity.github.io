@@ -159,6 +159,9 @@ sections:
   - name: RxCocoa-Texture
     repo: GeekTree0101/RxCocoa-Texture
     description: RxCocoa Extension Library for Texture. 
+  - name: RxNuke
+    repo: kean/RxNuke
+    description: RxSwift extensions for Nuke
 - name: Projects with RxSwift Extensions
   items:
   - name: Moya
