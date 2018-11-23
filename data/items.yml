@@ -95,7 +95,7 @@ sections:
 - name: Projects that Extend Other Projects with RxSwift
   items:
   - name: Moya-ObjectMapper
-    repo: ivanbruel/Moya-ObjectMapper
+    repo: bmoliveira/Moya-ObjectMapper
     description: ObjectMapper bindings for Moya for easier JSON serialization, including
       RxSwift bindings.
   - name: NSObject+Rx
