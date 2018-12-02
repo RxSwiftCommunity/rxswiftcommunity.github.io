@@ -212,6 +212,9 @@ sections:
   - name: RxBookshelf
     repo: emenegro/rx-bookshelf
     description: "Simple project of a bookshelf to learn Reactive programming in Swift with RxSwift"
+  - name: RxReachability
+    repo: RxSwiftCommunity/RxReachability
+    description: "RxReachability adds easy to use RxSwift bindings for ReachabilitySwift."
 - name: Documentation & Resources
   items:
   - name: RxSwift 中文文档（非官方）
