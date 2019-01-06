@@ -172,6 +172,10 @@ sections:
     repo: SwiftReactive/SugarRecord
     description: SugarRecord is a CoreData/Realm wrapper. It exposes storage operations
       and fetches as observables to be used with RxSwift.
+  - name: RxPullToRefresh
+    repo: gumob/RxPullToRefresh
+    description: A Swift library allows you to create a flexibly customizable
+      pull-to-refresh view with RxSwift.
 - name: Apps Built with RxSwift
   items:
   - name: Eidolon
