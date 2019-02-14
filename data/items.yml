@@ -92,6 +92,9 @@ sections:
   - name: RxViewBinder
     repo: magi82/RxViewBinder
     description: RxViewBinder is a one-way architecture using Reactive.
+  - name: RxExternalAccessory
+    repo: laxmorek/RxExternalAccessory
+    description: RxSwift wrapper around ExternalAccessory framework.
 - name: Projects that Extend Other Projects with RxSwift
   items:
   - name: Moya-ObjectMapper
