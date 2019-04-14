@@ -224,7 +224,7 @@ sections:
     description: "RxReachability adds easy to use RxSwift bindings for ReachabilitySwift."
   - name: TinyGitHub
     repo: k-lpmg/TinyGitHub
-    description: "iOS app for GitHub with explore trending, using CleanArchitectureRxSwift pattern."
+    description: "iOS app for GitHub with exploring trending, using CleanArchitectureRxSwift pattern."
 - name: Documentation & Resources
   items:
   - name: RxSwift 中文文档（非官方）
