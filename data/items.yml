@@ -222,6 +222,9 @@ sections:
   - name: RxReachability
     repo: RxSwiftCommunity/RxReachability
     description: "RxReachability adds easy to use RxSwift bindings for ReachabilitySwift."
+  - name: RxBinding
+    repo: RxSwiftCommunity/RxBinding
+    description: "RxBinding provides ~>, <~> and ~ operators for data binding using RxSwift, to replace the bind(to:) and disposed(by:) method in RxSwift."
 - name: Documentation & Resources
   items:
   - name: RxSwift 中文文档（非官方）
