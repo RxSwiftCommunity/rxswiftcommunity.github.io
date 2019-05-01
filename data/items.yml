@@ -225,6 +225,9 @@ sections:
   - name: RxReachability
     repo: RxSwiftCommunity/RxReachability
     description: "RxReachability adds easy to use RxSwift bindings for ReachabilitySwift."
+  - name: GiTiny
+    repo: k-lpmg/GiTiny
+    description: "iOS app for GitHub with exploring trending, using MVVM-C based on CleanArchitectureRxSwift"
 - name: Documentation & Resources
   items:
   - name: RxSwift 中文文档（非官方）
