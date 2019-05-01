@@ -127,6 +127,9 @@ sections:
   - name: RxWebKit
     repo: RxSwiftCommunity/RxWebKit
     description: RxWebKit is a RxSwift wrapper for WebKit.
+  - name: RxAlert
+    repo: RxSwiftCommunity/RxAlert
+    description: "We have made it easy to implement UIAlertController using RxSwift."
   - name: RxMediaPicker
     repo: ruipfcosta/RxMediaPicker
     description: A reactive wrapper built around UIImagePickerController.
