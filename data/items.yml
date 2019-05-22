@@ -171,6 +171,9 @@ sections:
   - name: RxNuke
     repo: kean/RxNuke
     description: RxSwift extensions for Nuke
+  - name: RxIGListKit
+    repo: RxSwiftCommunity/RxIGListKit
+    description: A RxSwift wrapper for Instagram's IGListKit
 - name: Projects with RxSwift Extensions
   items:
   - name: Moya
