@@ -100,6 +100,9 @@ sections:
     description: "RxBinding provides ~> and <~> operators for data binding using RxSwift, to replace the bind(to:) and disposed(by:) method in RxSwift."
 - name: Projects that Extend Other Projects with RxSwift
   items:
+  - name: RxCloudKit
+    repo: RxSwiftCommunity/RxCloudKit
+    description: RxSwift wrapper for Apple's CloudKit framework
   - name: RxCombine
     repo: freak4pc/RxCombine
     description: Bi-directional type bridging between RxSwift and Apple's Combine framework
