@@ -100,6 +100,9 @@ sections:
     description: "RxBinding provides ~> and <~> operators for data binding using RxSwift, to replace the bind(to:) and disposed(by:) method in RxSwift."
 - name: Projects that Extend Other Projects with RxSwift
   items:
+  - name: RxVision
+    repo: RxSwiftCommunity/RxVision
+    description: RxSwift wrapper for Apple's Vision framework
   - name: RxARKit
     repo: RxSwiftCommunity/RxARKit
     description: RxSwift wrapper for Apple's ARKit framework
