@@ -103,6 +103,9 @@ sections:
     description: RxSwift wrapper for on-demand resources access
 - name: Projects that Extend Other Projects with RxSwift
   items:    
+  - name: RxSceneKit
+    repo: RxSwiftCommunity/RxSceneKit
+    description: RxSwift wrapper for Apple's RxSceneKit framework
   - name: RxSpriteKit
     repo: RxSwiftCommunity/RxSpriteKit
     description: RxSwift wrapper for Apple's RxSpriteKit framework
