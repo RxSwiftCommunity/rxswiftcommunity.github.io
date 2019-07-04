@@ -102,7 +102,10 @@ sections:
     repo: RxSwiftCommunity/RxOnDemandResources
     description: RxSwift wrapper for on-demand resources access
 - name: Projects that Extend Other Projects with RxSwift
-  items:
+  items:  
+  - name: RxCoreNFC
+    repo: RxSwiftCommunity/RxCoreNFC
+    description: RxSwift wrapper for Apple's CoreNFC framework
   - name: RxVision
     repo: RxSwiftCommunity/RxVision
     description: RxSwift wrapper for Apple's Vision framework
