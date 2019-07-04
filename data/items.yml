@@ -98,6 +98,9 @@ sections:
   - name: RxBinding
     repo: RxSwiftCommunity/RxBinding
     description: "RxBinding provides ~> and <~> operators for data binding using RxSwift, to replace the bind(to:) and disposed(by:) method in RxSwift."
+  - name: RxOnDemandResources
+    repo: RxSwiftCommunity/RxOnDemandResources
+    description: RxSwift wrapper for on-demand resources access
 - name: Projects that Extend Other Projects with RxSwift
   items:
   - name: RxVision
