@@ -180,6 +180,9 @@ sections:
   - name: RxIGListKit
     repo: RxSwiftCommunity/RxIGListKit
     description: A RxSwift wrapper for Instagram's IGListKit
+  - name: RxParchmentDataSources
+    repo: Pubbus/RxParchmentDataSources
+    description: A reactive wrapper built around rechsteiner/Parchment
 - name: Projects with RxSwift Extensions
   items:
   - name: Moya
