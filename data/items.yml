@@ -183,6 +183,9 @@ sections:
   - name: RxParchmentDataSources
     repo: Pubbus/RxParchmentDataSources
     description: A reactive wrapper built around rechsteiner/Parchment
+  - name: RxKoloda
+    repo: Pubbus/RxKoloda
+    description: A reactive wrapper built around Yalantis/Koloda
 - name: Projects with RxSwift Extensions
   items:
   - name: Moya
