@@ -186,6 +186,9 @@ sections:
   - name: RxKoloda
     repo: Pubbus/RxKoloda
     description: A reactive wrapper built around Yalantis/Koloda
+  - name: RxNetService
+    repo: katoemba/RxNetService
+    description: A reactive wrapper around NetServiceBrowser to discover network services.
 - name: Projects with RxSwift Extensions
   items:
   - name: Moya
