@@ -65,7 +65,7 @@ sections:
     description: 🎌 Reactive navigation library for iOS based on the coordinator pattern
   - name: RxReduce
     repo: RxSwiftCommunity/RxReduce
-    description: RxReduce is a lightweight framework that ease the implementation 
+    description: RxReduce is a lightweight framework that ease the implementation
       of a state container pattern in a Reactive Programming compliant way.
   - name: RxSwiftExt
     repo: RxSwiftCommunity/RxSwiftExt
@@ -85,10 +85,10 @@ sections:
     description: "Simple, Extensible, Flexible Validation Checker"
   - name: RxBiBinding
     repo: RxSwiftCommunity/RxBiBinding
-    description: "Reactive two-way binding"   
+    description: "Reactive two-way binding"
   - name: RxLocalizer
     repo: RxSwiftCommunity/RxLocalizer
-    description: "Localize your apps, using RxSwift"  
+    description: "Localize your apps, using RxSwift"
   - name: RxViewBinder
     repo: magi82/RxViewBinder
     description: RxViewBinder is a one-way architecture using Reactive.
@@ -170,10 +170,10 @@ sections:
     description: Reactive extension for the Kingfisher image downloading and caching library.
   - name: RxContacts
     repo: RxSwiftCommunity/RxContacts
-    description: RxContacts is a RxSwift wrapper around the Contacts Framework. 
+    description: RxContacts is a RxSwift wrapper around the Contacts Framework.
   - name: RxCocoa-Texture
     repo: GeekTree0101/RxCocoa-Texture
-    description: RxCocoa Extension Library for Texture. 
+    description: RxCocoa Extension Library for Texture.
   - name: RxNuke
     repo: kean/RxNuke
     description: RxSwift extensions for Nuke
@@ -206,6 +206,9 @@ sections:
     repo: artsy/eidolon
     description: Artsy's auction bidding kiosk is built with RxSwift and demonstrates
       some neat uses of the Swift type system.
+  - name: RxTodo-Typicode
+    repo: cagricolak/RxTodo-app
+    description: Using RxSwift, MVVM-C and https://jsonplaceholder.typicode.com/ for dummy network data
   - name: RxGitHub
     repo: oronbz/RxGithub
     description: an example project to demonstrate dependency injection and Swinject
