@@ -255,6 +255,9 @@ sections:
   - name: RxGooglePlaceSearch
     repo: cagricolak/GooglePlaceSearch
     description: "Google Place API demo project - built with RxSwift and MVVM-C."
+  - name: GitTime
+    repo: 87kangsw/GitTime
+    description: "iOS Application for GitHub activities and trends, using ReactorKit Architecture."
 - name: Documentation & Resources
   items:
   - name: RxSwift 中文文档（非官方）
