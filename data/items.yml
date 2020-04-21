@@ -258,6 +258,9 @@ sections:
   - name: GitTime
     repo: 87kangsw/GitTime
     description: "iOS Application for GitHub activities and trends, using ReactorKit Architecture."
+  - name: reactorkit-keyboard-example
+    repo: techinpark/reactorkit-keyboard-example
+    description: "iOS Application example for develop keyboard-extensions using ReactorKit Architecture."
 - name: Documentation & Resources
   items:
   - name: RxSwift 中文文档（非官方）
