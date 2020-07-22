@@ -7,7 +7,7 @@ sections:
     description: Encapsulates an action to be performed, usually by a button press.
       Contains helpful extensions on a variety of UI classes.
   - name: RxBatteryManager
-    repo: mustafagunes/RxBatteryManager
+    repo: RxSwiftCommunity/RxBatteryManager
     description: A Reactive BatteryManager in Swift for iOS.
   - name: RxEasing
     repo: lintmachine/RxEasing
